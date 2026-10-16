@@ -1,1 +1,16 @@
-PLACEHOLDER
+{
+  "name": "NEXUS FieldPulse Core",
+  "short_name": "FieldPulse",
+  "description": "Elite real-time field operations intelligence — particle risk graph and live kernel. DoubleA @ AntManThePro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "nexus-icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
